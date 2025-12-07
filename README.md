@@ -1,1 +1,1 @@
-# ray_soduku
+# Soduku game
